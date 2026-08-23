@@ -30,16 +30,16 @@
 
 <ol>
   <li>
-    A paper on proactive intelligence, published at the <strong>EMNLP 2026 Main Conference (CCF B · acceptance rate: 15.4%)</strong> (<a href="https://arxiv.org/abs/2606.03236">Paper</a>) &mdash; <strong>First author</strong>.
+    A paper on proactive intelligence, published at the <strong>🏆 EMNLP 2026 Main Conference (CCF B)</strong> (<a href="https://arxiv.org/abs/2606.03236">Paper</a>) &mdash; <strong>First author</strong>.
   </li>
   <li>
-    A paper on emotion recognition through enhanced multimodal fusion, published in <strong>EAAI 2026 (CCF-C | CAS Q1 Top · IF 8.0)</strong> (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197626014168">Paper</a>) &mdash; <strong>Co-first author (2nd)</strong>.
+    A paper on emotion recognition through enhanced multimodal fusion, published in <strong>🌟 EAAI 2026 (CCF-C | CAS Q1 Top · IF 8.0)</strong> (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197626014168">Paper</a>) &mdash; <strong>Co-first author (2nd; advisor listed 1st)</strong>.
   </li>
   <li>
-    A paper on sublot-level coordinated scheduling under kitting constraints, published in <strong>IJPR 2026 (CAS Q2 Top · IF 7.3)</strong> (<a href="https://www.tandfonline.com/doi/full/10.1080/00207543.2026.2695247">Paper</a>) &mdash; <strong>Co-first author (2nd)</strong>.
+    A paper on sublot-level coordinated scheduling under kitting constraints, published in <strong>🌟 IJPR 2026 (CAS Q2 Top · IF 7.3)</strong> (<a href="https://www.tandfonline.com/doi/full/10.1080/00207543.2026.2695247">Paper</a>) &mdash; <strong>Co-first author (2nd)</strong>.
   </li>
   <li>
-    A paper on interpretable neuropeptide prediction using handcrafted and T5-based features, published in <strong>CBM 2024 (CAS Q2 Top · IF 6.3)</strong> (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0010482524011338">Paper</a>) &mdash; <strong>Second author</strong>.
+    A paper on interpretable neuropeptide prediction using handcrafted and T5-based features, published in <strong>🌟 CBM 2024 (CAS Q2 Top · IF 6.3)</strong> (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0010482524011338">Paper</a>) &mdash; <strong>Second author</strong>.
   </li>
 </ol>
 
