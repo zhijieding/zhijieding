@@ -1,8 +1,13 @@
 <div align="center">
 
-<h2>Hi, I'm ZhiJie Ding.</h2>
+<a href="https://zhijieding.github.io/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=0969DA&center=true&vCenter=true&repeat=false&width=500&height=48&lines=Hi%2C+I'm+ZhiJie+Ding." alt="Hi, I'm ZhiJie Ding.">
+</a>
 
-<p><strong>👋 I'm currently focused on applications of large language models in proactive intelligence and personalized recommendation.</strong></p>
+<p>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" alt="Waving hand">
+  <strong>I'm currently focused on applications of LLM in proactive intelligence and personalized recommendation.</strong>
+</p>
 
 <p>
   <code>🐼 Born 2003.07.19 · Tongling, China.</code>
