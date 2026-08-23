@@ -23,35 +23,24 @@
 
 <h2>📚 Publications</h2>
 
-<h3>🎤 Conference</h3>
-
-<p>
-  <strong>CCF B · EMNLP 2026</strong><br>
-  <a href="https://arxiv.org/abs/2606.03236"><strong>Perceive Before Reasoning: A Pre-Reasoning Perception Framework for Efficient and Reliable Proactive Mobile Agents</strong></a><br>
-  <sub><strong>First author</strong> · Main Conference acceptance rate: 15.4%</sub>
-</p>
-
-<hr>
-
-<h3>📄 Journals</h3>
-
-<p>
-  <strong>CCF-C · CAS Q1 Top · IF 8.0 · EAAI 2026</strong><br>
-  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197626014168">Bidirectional Mamba Enhanced Multimodal Fusion Framework for Emotion Recognition in Conversations</a><br>
-  <sub><strong>Co-first author</strong> · My advisor is listed first.</sub>
-</p>
-
-<p>
-  <strong>CAS Q2 Top · IF 7.3 · IJPR 2026</strong><br>
-  <a href="https://www.tandfonline.com/doi/full/10.1080/00207543.2026.2695247">Sublot-Level Coordinated Scheduling for Multi-Shop Manufacturing System under Kitting Constraints: A Full Active Schedule Driven Solution Framework</a><br>
-  <sub><strong>Co-first author</strong></sub>
-</p>
-
-<p>
-  <strong>CAS Q2 Top · IF 6.3 · CBM 2024</strong><br>
-  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0010482524011338">NeuroPpred-SHE: An Interpretable Neuropeptides Prediction Model Based on Selected Features from Hand-Crafted Features and Embeddings of T5 Model</a><br>
-  <sub><strong>Second author</strong></sub>
-</p>
+<ol>
+  <li>
+    <strong>First author</strong> &mdash; A paper on proactive intelligence, published at the <strong>EMNLP 2026 Main Conference</strong> (<a href="https://arxiv.org/abs/2606.03236">Paper</a>).<br>
+    <sub>CCF B · Main Conference acceptance rate: 15.4%</sub>
+  </li>
+  <li>
+    <strong>Co-first author (second listed; advisor listed first)</strong> &mdash; A paper on emotion recognition through enhanced multimodal fusion, published in <strong>EAAI 2026</strong> (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0952197626014168">Paper</a>).<br>
+    <sub>CCF-C | CAS Q1 Top · IF 8.0</sub>
+  </li>
+  <li>
+    <strong>Co-first author</strong> &mdash; A paper on sublot-level coordinated scheduling under kitting constraints, published in <strong>IJPR 2026</strong> (<a href="https://www.tandfonline.com/doi/full/10.1080/00207543.2026.2695247">Paper</a>).<br>
+    <sub>CAS Q2 Top · IF 7.3</sub>
+  </li>
+  <li>
+    <strong>Second author</strong> &mdash; A paper on interpretable neuropeptide prediction using handcrafted and T5-based features, published in <strong>CBM 2024</strong> (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0010482524011338">Paper</a>).<br>
+    <sub>CAS Q2 Top · IF 6.3</sub>
+  </li>
+</ol>
 
 </td>
 <td width="40%" valign="top">
