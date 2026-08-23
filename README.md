@@ -15,7 +15,7 @@
 </p>
 
 <a href="https://zhijieding.github.io/">
-  <img src="https://img.shields.io/badge/Academic_Homepage-Visit-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Academic Homepage">
+  <img src="https://img.shields.io/badge/Academic_Homepage_%E2%86%97-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" height="30" alt="Academic Homepage">
 </a>
 
 </div>
@@ -38,7 +38,7 @@
     <sub>CCF-C | CAS Q1 Top · IF 8.0</sub>
   </li>
   <li>
-    <strong>Co-first author</strong> &mdash; A paper on sublot-level coordinated scheduling under kitting constraints, published in <strong>IJPR 2026</strong> (<a href="https://www.tandfonline.com/doi/full/10.1080/00207543.2026.2695247">Paper</a>).<br>
+    <strong>Co-first author (listed second)</strong> &mdash; A paper on sublot-level coordinated scheduling under kitting constraints, published in <strong>IJPR 2026</strong> (<a href="https://www.tandfonline.com/doi/full/10.1080/00207543.2026.2695247">Paper</a>).<br>
     <sub>CAS Q2 Top · IF 7.3</sub>
   </li>
   <li>
