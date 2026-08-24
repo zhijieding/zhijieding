@@ -62,7 +62,7 @@
 
 <p>
   <strong>🔹 Midea</strong><br>
-  Large Language Model Algorithm Intern<br>
+  Multimodal Large Language Model Algorithm Intern<br>
   <code>Nov. 2025 – Feb. 2026</code> <sub>Shanghai</sub>
 </p>
 
